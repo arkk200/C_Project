@@ -1,0 +1,6 @@
+﻿  source.c
+C:\Users\user\Desktop\C_Project\Upgrade_Sword\Upgrade_Sword_Project\Upgrade_Sword_Project\source.c(85,7): warning C4101: 'swordName' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\C_Project\Upgrade_Sword\Upgrade_Sword_Project\Upgrade_Sword_Project\source.c(235,19): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\C_Project\Upgrade_Sword\Upgrade_Sword_Project\Upgrade_Sword_Project\source.c(138,63): warning C4101: 'newGoldData' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\C_Project\Upgrade_Sword\Upgrade_Sword_Project\Upgrade_Sword_Project\source.c(138,47): warning C4101: 'newLevelData' :참조되지 않은 지역 변수입니다.
+  Upgrade_Sword_Project.vcxproj -> C:\Users\user\Desktop\C_Project\Upgrade_Sword\Upgrade_Sword_Project\x64\Debug\Upgrade_Sword_Project.exe

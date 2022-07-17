@@ -1,0 +1,17 @@
+﻿  source.c
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(25,14): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char [101][30]'과(와) 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(25,11): warning C4024: 'Quiz': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(25,19): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char [101][30]'과(와) 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(25,16): warning C4024: 'Quiz': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(28,14): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char [101][30]'과(와) 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(28,11): warning C4024: 'Quiz': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(28,19): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char [101][30]'과(와) 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(28,16): warning C4024: 'Quiz': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(19,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(33,23): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(33,41): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\MEWProject\source.c(39,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MEWProject.vcxproj -> C:\Users\user\Desktop\C_Project\Memorize_English_Words\MEWProject\x64\Debug\MEWProject.exe
